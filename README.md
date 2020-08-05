@@ -1,6 +1,5 @@
-# RoboticSWEngineer_BuildGazeboWorld
+# RoboticSWEngineer_Build Gazebo World
 
-# RoboND-Term1-P1-Build-My-World
 Project 1 of Udacity Robotics Software Engineer Nanodegree Program
 
 <img src="https://github.com/epoc88/RoboticSWEngineer_BuildGazeboWorld/blob/master/media/dragonWorld.jpg" width="500" height="600"> 
@@ -47,7 +46,6 @@ Directory Structure
 ├── world                          # Gazebo main World containing models 
 │   ├── dragonWorld
 ├── CMakeLists.txt                 # Link libraries 
-└──   
 ```
 - [dragonWorld](/world/dragonWorld): Gazebo world file that includes the models.  
 - [dragonHouse](/model/dragonHouse): A single floor structure designed in the Building Editor tool of Gazebo.  
